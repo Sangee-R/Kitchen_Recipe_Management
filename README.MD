@@ -1,53 +1,10 @@
 # client
 
-<div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
-    </a>
-</div>
-<br/>
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
+![img1](https://user-images.githubusercontent.com/109620687/235511621-b5e1fe27-fc6e-4513-8973-f70e8542aec7.png)
 
-## Getting Started
+![img2](https://user-images.githubusercontent.com/109620687/235511653-796187be-155d-4562-91a8-d7d9de4b9f05.png)
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+![img3](https://user-images.githubusercontent.com/109620687/235511677-fd74f809-5e3f-4647-a6ca-378807da05b8.png)
 
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
-
-## Available Scripts
-
-### Running the development server.
-
-```bash
-    npm run dev
-```
-
-### Building for production.
-
-```bash
-    npm run build
-```
-
-### Running the production server.
-
-```bash
-    npm run start
-```
-
-## Learn More
-
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Material UI** [Docs](https://refine.dev/docs/ui-frameworks/mui/tutorial/)
-- **Inferencer** [Docs](https://refine.dev/docs/packages/documentation/inferencer)
-- **Material UI Light/Dark Mode** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Material UI Custom Theme** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Custom Layout** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-layout/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Google Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
-
-## License
-
-MIT
+![img4](https://user-images.githubusercontent.com/109620687/235511704-f9d65f00-373c-4dfb-8d51-01eb41751cbd.png)
